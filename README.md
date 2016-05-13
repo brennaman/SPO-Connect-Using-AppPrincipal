@@ -1,2 +1,2 @@
-# SPO-Connect-Using-AppPrincipal
-This contains a C# console application that connects to SharePoint Online using an App Principal
+# Connect To SharePoint Online Using An App Only Token
+This contains a C# console application that connects to SharePoint Online using an App Only Token.
