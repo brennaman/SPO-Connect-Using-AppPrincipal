@@ -180,4 +180,4 @@ FakesAssemblies/
 # specific information which should not be in the repo
 *.pubxml
 
-SPOAppPrincipal.Console/SPOAppPrincipal.Console/App.config
+SPO-Connect-Using-AppPrincipal/SPOAppPrincipal.Console/SPOAppPrincipal.Console/App.config
